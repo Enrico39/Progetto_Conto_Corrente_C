@@ -1,5 +1,8 @@
-# progetto-programmazione-1-conto-corrente
-Conto corrente
+# Progetto Programmazione 1 - Conto Corrente
+
+Progetto realizzato in C per sostenere l'esame di Programmazione 1.
+
+#Traccia
 
 Si supponga di voler gestire i conti correnti di n utenti. Ogni utente è identificato dal Cognome, Nome, numero del conto, lista movimenti.
 Gestire i conti correnti e gestire le seguenti operazioni
